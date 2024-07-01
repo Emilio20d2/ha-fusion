@@ -59,7 +59,7 @@
 		"js-yaml": "^4.1.0",
 		"konva": "^9.3.3",
 		"maplibre-gl": "^4.0.2",
-		"marked": "^12.0.0",
+		"marked": "^13.0.1",
 		"svelte-confetti": "^1.3.2",
 		"svelte-dnd-action": "^0.9.39",
 		"svelte-modals": "^1.3.0",
